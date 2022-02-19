@@ -1,0 +1,7 @@
+"Flashpoint - 1962 RP"
+{
+	"base"		"nutscript"
+	"title"		"Flashpoint - 1962 RP"
+	"author"	"Smiley"
+	"menusystem"	"1"
+}
